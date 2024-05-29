@@ -1,0 +1,27 @@
+.logo{
+    width: 20rem;
+}
+h1 {
+    text-align: center;
+    color: brown;   
+}
+h1 span{
+ color: black;
+}
+h2{
+    text-align: center;
+    color: blue;
+}
+h2 span{
+    color: black;
+    color: black;
+}
+.imagen{
+    position: relative;
+    left: 600px;
+}
+
+.Enlaces{
+    position: relative;
+    left: 680px;
+}
