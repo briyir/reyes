@@ -1,0 +1,32 @@
+.borde{
+    
+    height: 300px;
+    background-color: #f3a6ce;
+    width: 80%;
+    margin: 0px auto 0 auto;
+    padding: 0px 50px 30px 15px;
+    overflow-y:scroll;
+
+}
+.nivel{
+    background-color: hsl(61, 74%, 57%);
+    width: 80%;
+    margin: -60px auto 0 auto;
+    padding: 10px 50px 30px 15px;
+}
+section{
+    background-color: #cd9ca9;
+    width: 70%;
+    margin: 0px auto 0 auto;
+    padding: 40px 0px 60px 0px;
+    
+}
+body{
+    background-color: rgb(222, 55, 105);
+    
+}
+h2{
+    border-bottom: 3px solid rgb(17, 16, 16);
+    color:rgb(7, 7, 7);
+    
+}
