@@ -1,0 +1,93 @@
+header{
+    background-color: rgb(202, 238, 238);
+    width: 950px;
+    height: 170px;
+    margin: 0 auto;
+    display: flex;
+}
+.logo{
+    width: 170px;
+}
+header h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    font-size: 50px;
+}
+nav{
+    background-color: rgb(88, 235, 15);
+    width: 950px;
+    height: 40px;
+    margin: 0 auto;
+    align-items: center;
+}
+nav ul li{
+    display: inline;
+    margin: 20px;
+}
+nav ul{
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      
+}
+main{
+
+    width: 950px;
+    height: 500px;
+    margin: 0 auto;
+}
+section{
+  
+    width: 550px;
+    height: 460px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+aside{
+    background-color: rgb(142, 229, 101);
+    width: 340px;
+    height: 460px;
+    float: right;
+    margin-right: 20px;
+    margin-top: 20px;
+    
+}
+aside h2{
+    color: rgb(234, 153, 13);
+    border-bottom: 2px solid rgb(234, 153, 13);
+    margin: 10px;
+}
+aside p{
+    margin: 10px;
+    
+}
+hr{
+    
+        width: 95%;
+        height: 0;
+        border: medium none;
+        border-top: 1px dashed rgb(0, 0, 0);
+      
+}
+
+footer{
+    background-color: rgb(171, 166, 166);
+    width: 950px;
+    height: 50px;
+    margin: 0 auto;
+    
+}
+footer h4{
+    display: flex;
+    justify-content: right;
+    height: 100%;
+    align-items: center;
+    margin: 10px;
+}
